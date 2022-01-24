@@ -5,13 +5,13 @@
 ## 文件布局
 ``` txt
 N_queen
-│  aaa.txt
-│  main.cpp
-│  mainwindow.cpp
-│  mainwindow.h
-│  mainwindow.ui
-│  N_queen.pro
-│  README.md
+│──aaa.txt
+│──main.cpp
+│──mainwindow.cpp
+│──mainwindow.h
+│──mainwindow.ui
+│──N_queen.pro
+│──README.md
 │  
 └─exe
   │──N_queen.exe  // 已经打包，可以直接运行。
